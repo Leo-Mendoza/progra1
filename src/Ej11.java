@@ -24,4 +24,6 @@ public class Ej11 {
 			System.out.println(sumatoriaPares(num));
 			scan.close();
 		}
-	}
+}
+
+
