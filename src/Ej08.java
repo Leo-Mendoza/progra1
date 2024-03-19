@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ej8 {
+public class Ej08 {
 	static void ponerNota(double x, double y) {
 		double prom = (x + y) / 2;
 		

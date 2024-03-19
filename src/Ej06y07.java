@@ -1,10 +1,10 @@
 import java.util.Scanner;
-public class Ej6y7 {
-	// EJ6
+public class Ej06y07 {
+	// EJ06
 		static void imprimirSuma(int a, int b) {
 			System.out.println("La suma es: "+ (a + b));
 		}
-		//EJ7
+		//EJ07
 		static void imprimirPromedio(int c, int d) {
 			System.out.println("El promedio es: "+(c+d)/2);
 		}
