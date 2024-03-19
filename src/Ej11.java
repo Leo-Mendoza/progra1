@@ -22,5 +22,6 @@ public class Ej11 {
 			int num = scan.nextInt();
 			
 			System.out.println(sumatoriaPares(num));
+			scan.close();
 		}
 	}
