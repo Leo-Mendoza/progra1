@@ -25,5 +25,3 @@ public class Ej11 {
 			scan.close();
 		}
 }
-
-

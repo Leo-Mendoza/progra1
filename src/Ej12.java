@@ -63,5 +63,3 @@ public class Ej12 {
 		scan.close();
 	}
 }
-
-
