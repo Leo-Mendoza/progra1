@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ej12 {
+public class Extra12 {
 
 	static double potencia(double x, int a) {
 		
