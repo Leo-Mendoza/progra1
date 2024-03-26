@@ -1,0 +1,39 @@
+public class test {
+	
+	public static int sumatoriaRec(int n) {
+		
+		if (n==0) 
+		{
+			return 0;
+		}
+		
+		return n + sumatoriaRec(n-1);
+	}
+	
+	public static int sumatoriaParesRec(int n) {
+		
+		if (n==0) {
+			return 0;
+		}
+	
+		if (n%2==0) {
+			return n + sumatoriaParesRec(n-1);
+		}
+		
+		else {
+			return sumatoriaParesRec(n-1);
+		}
+	}
+
+	public static int potenciaRec(double x, int n) {
+		
+		
+		
+	}
+	public static void main(String[] args) {
+		
+		System.out.println(sumatoriaRec(5));
+		System.out.println(sumatoriaParesRec(4));
+	}
+
+}
